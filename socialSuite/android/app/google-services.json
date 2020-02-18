@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540976446197",
+    "firebase_url": "https://socialsuite-7cbd5.firebaseio.com",
+    "project_id": "socialsuite-7cbd5",
+    "storage_bucket": "socialsuite-7cbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540976446197:android:ef34eee426abd4a78923bc",
+        "android_client_info": {
+          "package_name": "com.AndreX.socialSuite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540976446197-gntt465v990g1i1u22lrlrjl02blsulo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4rpVc3WjgXw65QTrOv2KR7ahMCXnvKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540976446197-gntt465v990g1i1u22lrlrjl02blsulo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

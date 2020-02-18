@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>540976446197-m5i7v0ebvoe2tdjisjdb4k4r8vgvl1jf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.540976446197-m5i7v0ebvoe2tdjisjdb4k4r8vgvl1jf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKhRArDM0nrAU1NmBbU7EGpWtk-gyuwrY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>540976446197</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AndreX.socialSuite</string>
+	<key>PROJECT_ID</key>
+	<string>socialsuite-7cbd5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialsuite-7cbd5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:540976446197:ios:b03f85e5fa97d0288923bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://socialsuite-7cbd5.firebaseio.com</string>
+</dict>
+</plist>
