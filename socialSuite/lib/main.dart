@@ -2,10 +2,11 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 import 'package:flutter/material.dart';
-import 'package:socialSuite/Firebase/AuthService.dart';
-import 'package:socialSuite/Screens/Loader.dart';
-import 'package:socialSuite/user.dart';
 import 'package:provider/provider.dart';
+
+import 'Core/AuthService.dart';
+import 'Core/Models/User.dart';
+import 'UI/Loader.dart';
 
 void main() => runApp(MyApp());
 
